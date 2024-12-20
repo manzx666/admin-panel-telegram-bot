@@ -26,9 +26,9 @@ You need to upload the photo from your device, don't upload it directly from Tel
 
 chat = """❤️ And don't forget to join our chat, where we share up-to-date information about FB uploads, tricks, and much more."""
 
-TOKEN = 'ENTER BOT TOKEN HERE'
+TOKEN = '2137200755:AAFgdeLVGFRO9Dy3kHufF27ksBFaofoxcqU'
 
-admins = [242494911, 689892377, 983265598]
+admins = [392836663, 392836663, 392836663]
 
 bot = Bot(TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
